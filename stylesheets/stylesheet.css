@@ -258,8 +258,8 @@ form {
 }
 
 img {
-  width: 100%;
-  max-width: 100%;
+  width: 30%;
+  max-width: 30%;
 }
 
 /*******************************************************************************
@@ -272,7 +272,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  width:50%;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -358,6 +358,36 @@ Full-Width Styles
 
 .tar_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
+}
+
+.screenshot_links1 {
+  width: 120px;
+  height: 273px;
+  overflow: hidden;
+  display: block;
+  text-indent: -5000px;
+
+  background: url(../images/Screenshot_13_opt.png) no-repeat top left;
+}
+
+.screenshot_links2 {
+  width: 120px;
+  height: 273px;
+  overflow: hidden;
+  display: block;
+  text-indent: -5000px;
+
+  background: url(../images/Screenshot_15_opt.png) no-repeat top left;
+}
+
+.screenshot_links3 {
+  width: 120px;
+  height: 273px;
+  overflow: hidden;
+  display: block;
+  text-indent: -5000px;
+
+  background: url(../images/Screenshot_17_opt.png) no-repeat top left;
 }
 
 #main_content_wrap {
