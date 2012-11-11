@@ -235,7 +235,7 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
+  border: 0px solid #373737;
   margin-bottom: 20px;
   text-align: left;
  }
@@ -248,8 +248,8 @@ th {
  }
 
 td {
-  padding: 10px;
-  border: 1px solid #373737;
+  padding: 0px;
+  border: 0px solid #373737;
  }
 
 form {
@@ -275,6 +275,10 @@ Full-Width Styles
   width:50%;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+.twitter-mention-button {
+  vertical-align: top;
 }
 
 #forkme_banner {
