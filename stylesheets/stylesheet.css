@@ -169,9 +169,6 @@ pre, code {
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
-
-
-
 }
 
 pre {
@@ -258,8 +255,8 @@ form {
 }
 
 img {
-  width: 30%;
-  max-width: 30%;
+  width: 80%;
+  max-width:80%;
 }
 
 /*******************************************************************************
@@ -272,7 +269,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  width:50%;
+  width:80%;
   padding: 20px 10px;
   margin: 0 auto;
 }
